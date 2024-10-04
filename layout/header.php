@@ -15,6 +15,3 @@
   <title>SISTEMA-LOGISTA</title>
 </head>
 <body>
-  
-</body>
-</html>
